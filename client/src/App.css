@@ -19,13 +19,13 @@
 }
 
 .nav-wrapper{
-  height: 125px;
+  height: 135px;
   background: black;
 }
 
 img{
-  height: 60px;
-  width: 60px;
+  height: 59px;
+  width: 59px;
 }
 
 @keyframes App-logo-spin {
