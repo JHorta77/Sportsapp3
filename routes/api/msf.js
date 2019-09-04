@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const msf = require("../../sportfeed/sportsData");
+// const msf = require("../../sportfeed/sportsData");
 const axios = require("axios");
 const btoa = (str) => new Buffer(str).toString('base64');
 
